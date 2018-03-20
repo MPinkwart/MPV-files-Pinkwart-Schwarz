@@ -2,7 +2,7 @@
 
 --- Author: Marvin Pinkwart, Jacobs University Bremen ---
 
---- Mail: m.pinkwart@jacobs-university.de ---
+--- Mail: m.pinkwart [at] jacobs-university.de ---
 
 --- Date: 03/20/2018 ---
 
