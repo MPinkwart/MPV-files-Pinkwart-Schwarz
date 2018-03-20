@@ -15,7 +15,7 @@ In this repository we provide four text files containing the MPVs of COMMANDER, 
 
 -- 2) STRUCTURE OF MPV FILES --
 
-The files contain one MPV per line, given in galactic coordinates (longitude,lattitude) in degrees. The structure is as follows: 
+The files contain one MPV per line, given in galactic coordinates "longitude/lattitude" in degrees. The structure is as follows: 
 
 l=2, j=1
 
