@@ -1,11 +1,10 @@
 # MPV-files-Pinkwart-Schwarz
 
-#################################################
-Author: Marvin Pinkwart, Jacobs University Bremen
-Mail: m.pinkwart@jacobs-university.de
-Date: 03/20/2018
-Content: Description of MPV files
-#################################################
+# Author: Marvin Pinkwart, Jacobs University Bremen
+# Mail: m.pinkwart@jacobs-university.de
+# Date: 03/20/2018
+# Content: Description of MPV files
+
 
 -- 1) CONTENT OF MPV FILES --
 
