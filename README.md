@@ -11,7 +11,7 @@
 
 -- 1) CONTENT OF MPV FILES --
 
-In this repository we provide four text files containing the MPVs of COMMANDER, NILC, SEVEM and SMICA resp., obtained from Planck second release full mission intensity data (https://irsa.ipac.caltech.edu/data/Planck/release_2/all-sky-maps/matrix_cmb.html) with the MPV calculation program of C.Copi (http://www.phys.cwru.edu/projects/mpvectors/#code). The MPVs start with l=2, end with l=50 and are given in galactic coordinates in degrees. The results obtained with the MPV data can be found in the preprint $LINK$.
+In this repository we provide four text files containing the MPVs of COMMANDER, NILC, SEVEM and SMICA resp., obtained from Planck second release full mission intensity data (https://irsa.ipac.caltech.edu/data/Planck/release_2/all-sky-maps/matrix_cmb.html) with the MPV calculation program of C.Copi (http://www.phys.cwru.edu/projects/mpvectors/#code). The MPVs start with l=2, end with l=50 and are given in galactic coordinates in degrees. The results obtained with the MPV data can be found in the preprint https://arxiv.org/pdf/1803.07473.pdf.
 
 -- 2) STRUCTURE OF MPV FILES --
 
